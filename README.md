@@ -29,3 +29,9 @@ A few punchy images will really help your page stand out, and make it your own. 
 1. **Two or three other nice-looking screenshots, of any other projects you have worked on. Salmon Cookies? Bus Mall?**
    * Click 👉🏾 [Here](https://github.com/AL0YSI0US/portfolio-prep/blob/main/assets/busMall.JPG) for a screenshot of **BusMall**, a 201 project
    * Click 👉🏾 [Here](https://github.com/AL0YSI0US/portfolio-prep/blob/main/assets/salmonCookies.JPG) for a screenshot of **salmonCookies**, a 201 project
+
+#### C O L L A B O R A T O R S
+
++ Thank you to [HexxKing](https://github.com/HexxKing) for coming up with idea of making a repository to house the things needed for the 301 portfolio project. 
+
++ You can see the repo they created by clicking 👉🏾 [here](https://github.com/HexxKing/portfolioPrep)
