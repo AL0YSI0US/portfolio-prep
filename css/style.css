@@ -1,0 +1,87 @@
+/*.........................................................B O D Y  */
+body {
+  position: relative;
+  background-color: rgb(41, 41, 41);
+  height: max-content;
+  min-height: 100vh;
+}
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+.content-wrap {
+  padding-bottom: 2.5em;
+}
+.flexbox-container {
+  width: 800px;
+  position: relative;
+  margin: auto;
+}
+.bio {
+  width: 800px;
+  height: fit-content;
+  margin: 10px;
+  padding: 10px;
+  border: 3px solid black;
+  background-color: grey;
+}
+#top-row {
+  display: flex;
+  width: 950px;
+}
+.imgbox {
+  height: 55%;
+  padding: 3px;
+  margin: 20px;
+  padding-left: 50px;
+  display: flex;
+  vertical-align: center;
+  text-align: center;
+  display: inline;
+}
+p {
+text-align: center;
+padding: 20px;
+}
+/*................................................. P R O J E C T S */
+#bottom-row {
+  display: flex;
+  width: 950px;
+}
+/*.......................................... A L 0 Y S I 0 U S (h1) */
+h1 {
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 50px;
+  font-weight: bold;
+  height: 60px;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 20px;
+  background: gray;
+  text-align: center;
+  margin-bottom: 15px;
+}
+/*............................................A B O U T . M E  (h2) */
+h2 {
+  font-family: 'Share Tech Mono', monospace;
+  width: 100%;
+  font-size: 30px;
+  margin: 0 auto;
+  height: 30px;
+  padding-top: 5px;
+  background: rgb(155, 120, 120);  
+  text-align: center;
+}
+ /*.....................................................F O O T E R */
+ footer {
+  font-family: 'Share Tech Mono', monospace;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  vertical-align: top;
+  height: 2.5rem;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  width: 100%;
+  font-weight: bold;
+}
