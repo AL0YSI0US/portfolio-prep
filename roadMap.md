@@ -43,13 +43,13 @@ Then the content should be unique and reflect the skills and personality of the 
 
   [✔️] Change the “Examples” menu to be titled simply “Menu”.
 
-  [o] Within the menu link to a Profile page, and a Portfolio page. Remove other links.
+  [/] Within the menu link to a Profile page, and a Portfolio page. Remove other links.
 
   [o] Change the routes so the Profile page loads at `/`, and the “Landing” page loads at `/portfolio`. Move the initial Index page to load at `/how-to` for your own reference.
 
   [o] Fix up the social media icons and their links as you like. At least swap out Facebook for LinkedIn, and ensure you are linking to your GitHub account here. These icons are included via FontAwesome.
 
-  [o] Remove the “Download” button.
+  [✔️] Remove the “Download” button.
 
 ---
 
